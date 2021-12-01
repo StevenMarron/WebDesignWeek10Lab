@@ -10,6 +10,7 @@ function Array(){
 
 function viewArray(){
 	alert(arrayFive);
+	alert("I'm not mad, I'm just disappointed");
 }
 
 function makeGuess(){
