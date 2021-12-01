@@ -9,8 +9,8 @@ function Array(){
 }
 
 function viewArray(){
-	alert(arrayFive);
-	alert("I'm not mad, I'm just disappointed");
+	alert("I'm not mad, I'm just disappointed. Check the console for the answer");
+	console.log(arrayFive);
 }
 
 function makeGuess(){
